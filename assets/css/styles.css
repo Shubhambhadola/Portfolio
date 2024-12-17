@@ -3352,15 +3352,19 @@ button.is-checked {
 }
 
 [dir="ltr"] .ltr\:left-\[calc\(60\%_-_20px\)\] {
-  left: calc(60% - 20px);
+  left: calc(79% - 20px);
 }
 
 [dir="ltr"] .ltr\:left-\[calc\(75\%_-_20px\)\] {
   left: calc(75% - 20px);
 }
 
-[dir="ltr"] .ltr\:left-\[calc\(90\%_-_20px\)\] {
-  left: calc(90% - 20px);
+[dir="ltr"] .ltr\:left-\[calc\(95\%_-_20px\)\] {
+  left: calc(95% - 20px);
+}
+
+[dir="ltr"] .ltr\:left-\[calc\(75\%_-_20px\)\] {
+  left: calc(75% - 20px);
 }
 
 [dir="ltr"] .ltr\:left-\[calc\(100\%_-_50px\)\] {
@@ -3376,7 +3380,19 @@ button.is-checked {
 }
 
 [dir="ltr"] .ltr\:left-\[calc\(100\%_-_30px\)\] {
-  left: calc(100% - 30px);
+  left: calc(98% - 30px);
+}
+
+[dir="ltr"] .ltr\:left-\[calc\(80\%_-_20px\)\] {
+  left: calc(80% - 20px);
+}
+
+[dir="ltr"] .ltr\:left-\[calc\(75\%_-_20px\)\] {
+  left: calc(75% - 20px);
+}
+
+[dir="ltr"] .ltr\:left-\[calc\(85\%_-_20px\)\] {
+  left: calc(85% - 20px);
 }
 
 [dir="ltr"] .ltr\:right-\[5px\] {
